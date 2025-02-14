@@ -29,7 +29,7 @@ This is a **real-time multiplayer racing game** where players compete against ea
 
 ```sh
 git clone https://github.com/alwi2022/Tap-Zap-Race.git
-cd multiplayer-racing-game
+cd Tap-Zap-Race
 ```
 
 ### 2️⃣ Install Dependencies
